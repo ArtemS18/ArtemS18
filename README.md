@@ -15,6 +15,9 @@
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" height="40"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
 </p>
 
 
