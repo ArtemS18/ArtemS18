@@ -1,9 +1,6 @@
 ---
 
 # 👋 Hi there
-
-## About Me
-
 * **BMSTU ICS5**, 3rd year
 * Backend Developer
 * Core stack: **FastAPI | Python**
