@@ -1,5 +1,3 @@
----
-
 # 👋 Hi there
 * **BMSTU ICS5**, 3rd year
 * Backend Developer
