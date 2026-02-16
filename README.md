@@ -17,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
 </p>
 
----
 
 ## 🎨 Frontend
 
@@ -25,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
 </p>
 
----
 
 ## ⚙ Backend
 
@@ -34,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=gin" height="40"/>
 </p>
 
----
 
 ## 🗄 Databases
 
@@ -46,7 +43,6 @@
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="32"/>
 </p>
 
----
 
 ## 🗄 Observation
 <p> 
@@ -55,7 +51,6 @@
   <img src="https://img.shields.io/badge/Loki-0A0A0A?style=for-the-badge&logo=grafana&logoColor=F46800" height="28"/> 
 </p>
 
----
 
 ## 🧰 Tools & DevOps
 
