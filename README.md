@@ -43,6 +43,15 @@
   <img src="https://skillicons.dev/icons?i=redis" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
   <img src="https://skillicons.dev/icons?i=neo4j" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="32"/>
+</p>
+
+---
+
+## 🗄 Observation
+<p> 
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="32"/> 
+  <img src="https://img.shields.io/badge/Loki-0A0A0A?style=for-the-badge&logo=grafana&logoColor=F46800" height="28"/> 
 </p>
 
 ---
