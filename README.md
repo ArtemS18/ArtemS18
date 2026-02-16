@@ -31,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=fastapi" height="32"/> 
   <img src="https://skillicons.dev/icons?i=graphql" height="32"/> 
   <img src="https://skillicons.dev/icons?i=go" height="32"/> 
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" height="28"/> 
   <img src="https://img.shields.io/badge/Aiogram-2C2D72?style=for-the-badge&logo=telegram&logoColor=white" height="28"/> 
 </p>
 
