@@ -1,37 +1,70 @@
-## Hi there 👋
+---
 
-About me
-    Backend Developer
-    Core stack: FastAPI | Python
-    Mainly focused on Backend
-    BMSTU Student ICS5 (3rd year)
-    VK Education frontend student
+# 👋 Hi there
 
-🛠️ My stack
---
+## 🚀 About Me
 
-**Languages**
-Python, Go, C++
-**Frontend**
-React 
-**Backend**
-FastAPI, GIN,
-**Databases**
-PostgresSQL, Neo4j, Redis, MongoDB
-**Tools & DevOps**
-Git GithubActions Docker Nginx Pip Poetry Swagger JSON
+* 🎓 **BMSTU ICS5**, 3rd year
+* 💻 Backend Developer
+* 🧠 Core stack: **FastAPI | Python**
+* 🔎 Focused primarily on Backend Engineering
+* 🎨 VK Education Frontend Student
 
-<!--
-**ArtemS18/ArtemS18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gin" height="40"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=neo4j" height="40"/>
+</p>
+
+---
+
+## 🧰 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="40"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
