@@ -2,13 +2,13 @@
 
 # 👋 Hi there
 
-## 🚀 About Me
+## About Me
 
-* 🎓 **BMSTU ICS5**, 3rd year
-* 💻 Backend Developer
-* 🧠 Core stack: **FastAPI | Python**
-* 🔎 Focused primarily on Backend Engineering
-* 🎨 VK Education Frontend Student
+* **BMSTU ICS5**, 3rd year
+* Backend Developer
+* Core stack: **FastAPI | Python**
+* Focused primarily on Backend Engineering
+* VK Education Frontend Student
 
 ---
 
