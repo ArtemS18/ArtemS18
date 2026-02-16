@@ -3,7 +3,7 @@
 * Backend Developer
 * Core stack: **FastAPI | Python**
 * Focused primarily on Backend Engineering
-* VK Education Frontend Student
+* VK Education Student
 
 ---
 
