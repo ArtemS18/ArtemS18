@@ -9,7 +9,7 @@
 
 # 🛠 Tech Stack
 
-## 💬 Languages
+## Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
@@ -18,14 +18,14 @@
 </p>
 
 
-## 🎨 Frontend
+## Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
 </p>
 
 
-## ⚙ Backend
+## Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
@@ -33,7 +33,7 @@
 </p>
 
 
-## 🗄 Databases
+## Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
@@ -44,7 +44,7 @@
 </p>
 
 
-## 🗄 Observation
+## Observation
 <p> 
   <img src="https://skillicons.dev/icons?i=prometheus" height="32"/> 
   <img src="https://skillicons.dev/icons?i=grafana" height="32"/>
@@ -52,7 +52,7 @@
 </p>
 
 
-## 🧰 Tools & DevOps
+## Tools & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
