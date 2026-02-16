@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
   <img src="https://skillicons.dev/icons?i=redis" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img src="https://skillicons.dev/icons?i=neo4j" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2cDBYMlJvJzko0FyCFf7d6NOlpeEYkfd68UdNajRdmw4BscDJEN-zJpo7TapMwymYqeYTuoOjFymnRkJ0MfXk4g&s&ec=121528441" height="40"/>
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="32"/>
 </p>
 
