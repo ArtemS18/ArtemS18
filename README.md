@@ -1,7 +1,7 @@
 # 👋 Hi there
 * **BMSTU ICS5**, 3rd year
 * Backend Developer
-* Core stack: **FastAPI | Python**
+* Core stack: **FastAPI | Python | Go**
 * Focused primarily on Backend Engineering
 * VK Education Student
 
