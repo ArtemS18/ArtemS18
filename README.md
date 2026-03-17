@@ -1,8 +1,8 @@
 # 👋 Hi there
 * **BMSTU ICS5**, 3rd year
-* Backend Developer
-* Core stack: **FastAPI | Python | Go**
-* Focused primarily on Backend Engineering
+* Fullstack Developer
+* Core stack: **Go | Python | PostgresSQL**
+* Focused primarily on Backend Developing
 * VK Education Student
 
 ---
