@@ -65,6 +65,7 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
+   <img src="https://skillicons.dev/icons?i=linux" height="40"/>
 </p>
 
 <p>
