@@ -25,6 +25,9 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=tauri" height="40"/>
+   <img src="https://skillicons.dev/icons?i=npm" height="40"/> 
 </p>
 
 
@@ -61,16 +64,16 @@
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="32"/>
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="40"/>
-   <img src="https://skillicons.dev/icons?i=grpc" height="32"/>
+  <img src="https://skillicons.dev/icons?i=grpc" height="32"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
    <img src="https://skillicons.dev/icons?i=linux" height="40"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
