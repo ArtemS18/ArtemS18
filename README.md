@@ -1,7 +1,7 @@
 # 👋 Hi there
 * **BMSTU ICS5**, 3rd year
 * Fullstack Developer
-* Core stack: **Go | Python | PostgresSQL**
+* Core stack: **Go | Python | SQL**
 * Focused primarily on Backend Developing
 * VK Education Student
 
